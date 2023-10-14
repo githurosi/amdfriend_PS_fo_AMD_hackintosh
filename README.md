@@ -1,6 +1,6 @@
-# 黑苹果 OpenCore配置 for HP-EliteBook-855G7-Notebook-Hackintosh
+# 黑苹果
 
-### Supports MacOS 10.13.x ~ 14.0.x
+### Supports MacOS 12.x ~ 14.0.x
 
 ![](Images/关于1.jpg)
 ![](Images/关于2.jpg)
