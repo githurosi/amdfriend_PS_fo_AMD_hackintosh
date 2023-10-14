@@ -2,8 +2,8 @@
 
 ### Supports MacOS 12.x ~ 14.0.x
 
-![](Images/关于1.jpg)
-![](Images/关于2.jpg)
+![](Images/关于1.png)
+![](Images/关于2.png)
 
 ## 软件说明
 
