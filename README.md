@@ -2,11 +2,13 @@
 
 PS软件未提供，此修复适用于所有黑苹果二进制修复
 
-      1.复制第一段代码在命令窗口 sudo npm install -g amdfriend --registry=http://registry.npmmirror.com
+      1.复制第一段代码在命令窗口
+      sudo npm install -g amdfriend --registry=http://registry.npmmirror.com
 
 以安装PS2021为例
 
-      2.复制第二段代码 sudo amdfriend --in-place --sign --directories /Applications/Adobe\ Photoshop\ 2021/Adobe\ Photoshop\ 2021.app
+      2.复制第二段代码
+      sudo amdfriend --in-place --sign --directories /Applications/Adobe\ Photoshop\ 2021/Adobe\ Photoshop\ 2021.app
 
 
 
